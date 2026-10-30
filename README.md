@@ -1,2 +1,2 @@
-# Avance_Base_Datos_II
-Registro de los avances de la materia
+# Sistema Web de Gestión de Inventario y Ventas para Cafetería
+El proyecto consiste en una aplicación web de una cafetería, desarrollada bajo la arquitectura cliente-servidor utilizando posiblemente en PHP como lenguaje backend, servidor local XAMPP, y MySQL.
