@@ -1,4 +1,4 @@
-# istema Web de Gestión de Inventario y Ventas para Cafetería
+# Sistema Web de Gestión de Inventario y Ventas para Cafetería
 
 ## Descripción del Proyecto
 Sistema web transaccional desarrollado para optimizar la gestión comercial y operativa de una cafetería. La aplicación permite administrar el catálogo de productos (categorías y stock), controlar las ventas en caja en tiempo real, gestionar clientes, y asegurar el acceso mediante perfiles de usuario y bitácoras de inicio de sesión.
